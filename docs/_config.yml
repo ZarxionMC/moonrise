@@ -2,7 +2,7 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://ZarxionMC.github.io"
-baseurl: "/website"
+baseurl: ""
 siteIcon: /media/android-chrome-192x192.png
 siteYear: 2020
 siteFooterlink: /about
